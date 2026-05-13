@@ -1,0 +1,22 @@
+{
+  "overview": "A simple sign language to English text and speech translator. Point your camera at ASL gestures and get real-time English text translation with audio playback.",
+  "features": [
+    "Real-time camera capture for sign language input",
+    "ASL gesture recognition and translation to English text",
+    "Text-to-speech audio playback of translated text",
+    "Translation history with timestamps",
+    "Copy translated text to clipboard",
+    "Responsive design for desktop and tablet"
+  ],
+  "category": "tool",
+  "tags": [
+    "sign-language",
+    "asl",
+    "translation",
+    "accessibility",
+    "text-to-speech",
+    "camera",
+    "ai"
+  ],
+  "last_updated": "2026-05-13T18:51:16.179Z"
+}
